@@ -2,14 +2,16 @@ const Projects = () => {
   return (
     <div>
       <h2>Projects</h2>
-      <h3>Secure Task API</h3>
+      <h3>Team Task Management API</h3>
       <p>Secure backend API with authentication and DevSecOps pipeline.</p>
-      <a href="https://github.com/chunogreg/secure-task-api">View Repository</a>
+      <a href="https://secure-task-api-tn15.onrender.com/api-docs/#/">
+        View API Documentation
+      </a>
 
       <h3>Global Skill Passport</h3>
       <p>Full-Stack SaaS Application (Next.js, Supabase)</p>
-      <a href="https://github.com/chunogreg/global-skill-passport">
-        View Repository
+      <a href="https://global-skill-passport.vercel.app/search">
+        View Live Application
       </a>
 
       <h3>Cloud IAM Security Analyzer</h3>

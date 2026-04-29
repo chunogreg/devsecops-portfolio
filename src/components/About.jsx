@@ -3,8 +3,10 @@ const About = () => {
     <div>
       <h2>About</h2>
       <p>
-        I am DevSecOps enthusiast with a background in IT system administration
-        and full-stack development.
+        I am a Backend Developer with experience building secure and scalable
+        REST APIs using Node.js and Express. Skilled in authentication systems,
+        API security, and database integration, with a background in full-stack
+        development and IT system administration.
       </p>
       <p>
         I previously worked as an IT officer managing internal systems and

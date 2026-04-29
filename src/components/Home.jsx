@@ -2,8 +2,12 @@ const Home = () => {
   return (
     <div>
       <h1>Gregory Aniobi</h1>
-      <p>DevSecOps Engineer | Cloud Security | CI/CD Security</p>
-      <p>Building security automated tools and DevSecOps pipelines.</p>
+      <p>Backend Developer (Node.js) | API Development | Secure System</p>
+      <p>
+        Building secure and scalable REST APIs using Node.js and Express.
+        Skilled in authentication systems, API security, and database
+        integration.
+      </p>
       <p>
         <a href="https://github.com/chunogreg">GitHub</a>
       </p>
